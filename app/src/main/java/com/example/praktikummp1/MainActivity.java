@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         btnSimpan.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
                 Toast.makeText(MainActivity.this, "Data Tersimpan", Toast.LENGTH_SHORT).show();
 
             }

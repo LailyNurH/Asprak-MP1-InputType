@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PraktikumMP1</string>
+    <string name="app_name">Input Type</string>
 
     <string-array name="prodi">
         <item>--Pilih--</item>
